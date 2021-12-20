@@ -1,0 +1,5 @@
+rootProject.name = 'guru.qa.diploma'
+include 'drivers.ui-diploma'
+include 'mobile-diploma'
+include 'ui-diploma'
+
